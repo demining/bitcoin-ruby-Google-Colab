@@ -204,6 +204,10 @@ Even if you are completely lost, just pointing out what is unclear helps a lot!
 
 If you are curious or like to participate in development, drop by \#bitcoin-ruby on irc.freenode.net!
 
-== License
 
-Available here: [link:COPYING]
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
